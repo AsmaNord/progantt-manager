@@ -1,0 +1,6 @@
+
+{
+  "name": "ProGantt Manager",
+  "description": "A high-performance project management tool with a synchronized editable table and Gantt chart, featuring automatic date calculation and hierarchical task tracking.",
+  "requestFramePermissions": []
+}
