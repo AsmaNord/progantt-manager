@@ -3,6 +3,7 @@
 A custom-built project management tool featuring a synchronized data table and Gantt chart. I built this to handle complex task dependencies and hierarchical project structures with automatic scheduling logic.
 
 **🔗 [Live Demo]((https://progantt.netlify.app/))**
+https://progantt.netlify.app/
 
 ---
 
